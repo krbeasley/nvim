@@ -1,5 +1,5 @@
 vim.wo.number = true -- Line numbers (default: false)
-vim.o.relativenumber = true -- Relative line numbers (default: false)
+vim.o.relativenumber = false -- Relative line numbers (default: false)
 vim.o.clipboard = 'unnamedplus' -- Sync clipboard between OS and Neovim (default: '')
 vim.o.wrap = false -- Display lines as one long line (default: true)
 vim.o.linebreak = true -- Companion to wrap, don't split words (default: false)
